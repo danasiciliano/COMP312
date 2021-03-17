@@ -1,0 +1,13 @@
+Things to Change:
+
+1. music option?
+2. change color scheme/layout? (make boxes cuter, fix initial interface)
+
+
+Important:
+3. Fix what happens after lives = 0, (game should end,
+    but it keeps replaying even if there's no spacebar input from player)
+
+
+
+
